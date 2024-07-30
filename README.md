@@ -3,6 +3,8 @@
 ## Descripción del proyecto
 Este proyecto se centró en analizar datos de la compañía Megaline para comparar dos de sus planes de servicio y determinar en cuál de ellos deberían invertir más en publicidad. Utilizando una muestra de 500 usuarios y cinco datasets proporcionados por la compañía, se realizó un proceso de limpieza y análisis de datos para llegar a conclusiones basadas en evidencia.
 
+*Nota: Megaline redondea los segundos a minutos y los megabytes a gigabytes. Para llamadas, cada llamada individual se redondea: incluso si la llamada duró solo un segundo, se contará como un minuto. Para tráfico web, las sesiones web individuales no se redondean. En vez de esto, el total del mes se redondea hacia arriba. Si alguien usa 1025 megabytes este mes, se le cobrarán 2 gigabytes.
+
 ## Objetivos
 - Comparar dos planes vendidos por Megaline.
 - Determinar en cuál plan se debe invertir más en publicidad.
