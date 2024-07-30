@@ -39,3 +39,4 @@ Este proyecto se centró en analizar datos de la compañía Megaline para compar
 __El análisis comparativo de los planes de Megaline proporcionó insights valiosos sobre en qué plan la compañía debería enfocar sus esfuerzos publicitarios. Las conclusiones se basaron en un riguroso análisis de datos y una prueba estadística, garantizando decisiones informadas y estratégicas__.
 
 ## Ejecuta el proyecto [aquí](https://github.com/BastianLQ/Analisis-Estadistico-Megaline/blob/main/An%C3%A1lisis%20Estad%C3%ADstico%20Megaline.ipynb)
+Para ver el __diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones__, haga click en el enlace de arriba
