@@ -1,4 +1,5 @@
 # Analisis-Estadistico-Megaline
+__Análisis a Megaline, estadística descriptiva, visualización de datos y verificación de hipótesis__
 
 <image src="https://github.com/BastianLQ/Analisis-Estadistico-Megaline/blob/main/N4.jpg" alt="Collage de gráficos">
 
