@@ -18,9 +18,10 @@ Este proyecto se centró en analizar datos de la compañía Megaline para compar
 ## Proceso del Proyecto
 - Extracción de Datos: Se trabajó con cinco datasets que contenían información de una muestra de 500 usuarios de Megaline.
 - Limpieza de Datos: Se llevaron a cabo operaciones de limpieza, como el manejo de valores nulos y la normalización de datos.
+- Cálculo de ingresos: Debido a que Megaline redondea los cobros de sus servicios, mediante uso de funciones se calcularon los cobros para cada cliente.
 - Análisis Exploratorio de Datos (EDA): Se exploraron los datos para obtener una comprensión inicial utilizando pandas y numpy.
 - Visualización de Datos: Se crearon gráficos con matplotlib y seaborn para visualizar las diferencias entre los dos planes.
-- Análisis Estadístico: Se aplicaron métodos estadísticos con scipy y math para analizar los datos de manera más profunda.
+- Análisis Estadístico: Se aplicaron métodos de estadística descriptiva para analizar los datos de manera más profunda.
 - Prueba de Hipótesis: Se realizó una prueba de hipótesis para determinar si las diferencias observadas entre los dos planes eran estadísticamente significativas.
 - Resultados: Se presentaron los hallazgos clave y se ofrecieron recomendaciones sobre la inversión en publicidad.
   
