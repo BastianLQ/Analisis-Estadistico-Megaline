@@ -31,4 +31,4 @@ Este proyecto se centró en analizar datos de la compañía Megaline para compar
 - Visualizaciones: Gráficos claros y concisos que ilustran las diferencias y similitudes entre los dos planes.
   
 ## Conclusiones
-__El análisis comparativo de los planes de Megaline proporcionó insights valiosos sobre en qué plan la compañía debería enfocar sus esfuerzos publicitarios. Las conclusiones se basaron en un riguroso análisis de datos y pruebas estadísticas, garantizando decisiones informadas y estratégicas__.
+__El análisis comparativo de los planes de Megaline proporcionó insights valiosos sobre en qué plan la compañía debería enfocar sus esfuerzos publicitarios. Las conclusiones se basaron en un riguroso análisis de datos y una prueba estadística, garantizando decisiones informadas y estratégicas__.
