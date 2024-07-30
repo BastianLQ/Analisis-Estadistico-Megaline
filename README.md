@@ -3,7 +3,7 @@ __Análisis a Megaline, estadística descriptiva, visualización de datos y veri
 
 <image src="https://github.com/BastianLQ/Analisis-Estadistico-Megaline/blob/main/N4.jpg" alt="Collage de gráficos">
 
-_Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://github.com/BastianLQ/Analisis-Estadistico-Megaline/blob/main/An%C3%A1lisis%20Estad%C3%ADstico%20Megaline.ipynb)_
+_Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Estad%C3%ADstico%20Megaline.html)_
 
 ## Descripción del proyecto
 Este proyecto se centró en analizar datos de la compañía Megaline para comparar dos de sus planes de servicio y determinar en cuál de ellos deberían invertir más en publicidad. Utilizando una muestra de 500 usuarios y cinco datasets proporcionados por la compañía, se realizó un proceso de limpieza y análisis de datos para llegar a conclusiones basadas en evidencia.
@@ -38,5 +38,5 @@ Este proyecto se centró en analizar datos de la compañía Megaline para compar
 ## Conclusiones
 __El análisis comparativo de los planes de Megaline proporcionó insights valiosos sobre en qué plan la compañía debería enfocar sus esfuerzos publicitarios. Las conclusiones se basaron en un riguroso análisis de datos y una prueba estadística, garantizando decisiones informadas y estratégicas__.
 
-## Ejecuta el proyecto [aquí](https://github.com/BastianLQ/Analisis-Estadistico-Megaline/blob/main/An%C3%A1lisis%20Estad%C3%ADstico%20Megaline.ipynb)
+## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Estad%C3%ADstico%20Megaline.html)
 Para ver el __diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones__, haga click en el enlace de arriba
