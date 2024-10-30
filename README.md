@@ -8,25 +8,23 @@ _Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https:/
 ## Descripción del proyecto
 Este proyecto se centró en analizar datos de la compañía Megaline para comparar dos de sus planes de servicio y determinar en cuál de ellos deberían invertir más en publicidad. Utilizando una muestra de 500 usuarios y cinco datasets proporcionados por la compañía, se realizó un proceso de limpieza y análisis de datos para llegar a conclusiones basadas en evidencia.
 
-*Nota: Megaline redondea los segundos a minutos y los megabytes a gigabytes. Para llamadas, cada llamada individual se redondea: incluso si la llamada duró solo un segundo, se contará como un minuto. Para tráfico web, las sesiones web individuales no se redondean. En vez de esto, el total del mes se redondea hacia arriba. Si alguien usa 1025 megabytes este mes, se le cobrarán 2 gigabytes.
+__*Nota:__ Megaline redondea los segundos a minutos y los megabytes a gigabytes. Para llamadas, cada llamada individual se redondea: incluso si la llamada duró solo un segundo, se contará como un minuto. Para tráfico web, las sesiones web individuales no se redondean. En vez de esto, el total del mes se redondea hacia arriba. Si alguien usa 1025 megabytes este mes, se le cobrarán 2 gigabytes.
   
 ## Herramientas Utilizadas
-- Lenguaje de Programación: __Python__
-- Entorno de Desarrollo: __Jupyter Notebook__
-- Bibliotecas: __pandas, numpy, matplotlib, seaborn, scipy, math__
+- __Lenguaje de Programación:__ Python.
+- __Entorno de Desarrollo:__ Jupyter Notebook.
+- __Bibliotecas:__ Pandas, Numpy, Matplotlib, Seaborn, Scipy, Math.
   
 ## Proceso del Proyecto
-- Extracción de Datos: Se trabajó con cinco datasets que contenían información de una muestra de 500 usuarios de Megaline.
-- Limpieza de Datos: Se llevaron a cabo operaciones de limpieza, como el manejo de valores nulos y la normalización de datos.
-- Cálculo de ingresos: Debido a que Megaline redondea los cobros de sus servicios, __mediante uso de funciones se calcularon los cobros para cada cliente__.
-- Análisis Exploratorio de Datos (EDA): Se exploraron los datos para obtener una comprensión inicial utilizando pandas y numpy.
-- Visualización de Datos: Se crearon gráficos con matplotlib y seaborn para visualizar las diferencias entre los dos planes.
-- Análisis Estadístico: __Se aplicaron métodos de estadística descriptiva para analizar los datos de manera más profunda__.
-- Prueba de Hipótesis: __Se realizó una prueba de hipótesis para determinar si las diferencias observadas entre los dos planes eran estadísticamente significativas__.
-- Resultados: Se presentaron los hallazgos clave y se ofrecieron recomendaciones sobre la inversión en publicidad.
+- __Inicialización:__ Se importan los 5 datasets proporcionados por Megaline (`calls`, `internet`, `messages`, `plans`, `users`) que tienen información sobre las llamadas, consumo de internet, mensajes enviados, detalles de los planes y de los usuarios, respectivamente.
+- __Preparación de datos:__  Se preparan los datos para ser analizados, trabajando valores ausentes, duplicados y formateando datos según corresponda.
+- __Cálculo de ingresos:__ Mediante el uso de funciones y combinaciones entre los DataFrames, se consigue calcular el ingreso en dólares de cada cliente.
+- __Estudio de comportamiento de usuario:__ Se analizan los comportamientos de consumo de los clientes de ambos planes, se construyeron gráficos de caja, barras e histogramas para apoyar el análisis.
+- __Pruebas de hipótesis estadísticas:__ Usando pruebas t, se realizan dos tests con hipótesis planteadas al inicio del informe.
+- __Resultados:__ Al final del proyecto se profundiza en las conclusiones obtenidas sobre los planes investigados.
   
 ## Conclusiones
-__El análisis comparativo de los planes de Megaline proporcionó insights valiosos sobre en qué plan la compañía debería enfocar sus esfuerzos publicitarios. Las conclusiones se basaron en un riguroso análisis de datos y una prueba estadística, garantizando decisiones informadas y estratégicas__.
+El análisis comparativo de los planes de Megaline proporcionó insights valiosos sobre en qué plan la compañía debería enfocar sus esfuerzos publicitarios. Las conclusiones se basaron en un riguroso análisis de datos y una prueba estadística, garantizando decisiones informadas y estratégicas.
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Estad%C3%ADstico%20Megaline.html)
 Para ver el __diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones__, haga click en el enlace de arriba
