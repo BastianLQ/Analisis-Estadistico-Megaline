@@ -23,7 +23,7 @@ __*Nota:__ Megaline redondea los segundos a minutos y los megabytes a gigabytes.
 - __Pruebas de hipótesis estadísticas:__ Usando pruebas t, se realizan dos tests con hipótesis planteadas al inicio del informe.
 - __Resultados:__ Al final del proyecto se profundiza en las conclusiones obtenidas sobre los planes investigados.
   
-## Conclusiones
+## Relevancia de los descubrimientos
 El análisis comparativo de los planes de Megaline proporcionó insights valiosos sobre en qué plan la compañía debería enfocar sus esfuerzos publicitarios. Las conclusiones se basaron en un riguroso análisis de datos y una prueba estadística, garantizando decisiones informadas y estratégicas.
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Estad%C3%ADstico%20Megaline.html)
