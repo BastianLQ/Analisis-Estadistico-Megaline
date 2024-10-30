@@ -27,4 +27,4 @@ __*Nota:__ Megaline redondea los segundos a minutos y los megabytes a gigabytes.
 El análisis comparativo de los planes de Megaline proporcionó insights valiosos sobre en qué plan la compañía debería enfocar sus esfuerzos publicitarios. Las conclusiones se basaron en un riguroso análisis de datos y una prueba estadística, garantizando decisiones informadas y estratégicas.
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Estad%C3%ADstico%20Megaline.html)
-Para ver el __diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones__, haga click en el enlace de arriba
+Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
