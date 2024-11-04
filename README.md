@@ -20,7 +20,7 @@ __*Nota:__ Megaline redondea los segundos a minutos y los megabytes a gigabytes.
 - __Preparación de datos:__  Se preparan los datos para ser analizados, trabajando valores ausentes, duplicados y formateando datos según corresponda.
 - __Cálculo de ingresos:__ Mediante el uso de funciones y combinaciones entre los DataFrames, se consigue calcular el ingreso en dólares de cada cliente.
 - __Estudio de comportamiento de usuario:__ Se analizan los comportamientos de consumo de los clientes de ambos planes, se construyeron gráficos de caja, barras e histogramas para apoyar el análisis.
-- __Pruebas de hipótesis estadísticas:__ Usando pruebas t, se realizan dos tests con hipótesis planteadas al final del informe.
+- __Pruebas de hipótesis estadísticas:__ Se realizaron dos tests con hipótesis planteadas al final del informe (antes de la Conclusión).
 - __Resultados:__ Al final del proyecto se profundiza en las conclusiones obtenidas sobre los planes investigados.
   
 ## Relevancia de los descubrimientos
