@@ -1,7 +1,7 @@
 # Analisis-Estadistico-Megaline
 __Análisis a Megaline, estadística descriptiva, visualización de datos y verificación de hipótesis__
 
-<image src="https://github.com/BastianLQ/Analisis-Estadistico-Megaline/blob/main/N4.jpg" alt="Collage de gráficos">
+<image src="https://github.com/BastianLQ/Analisis-Estadistico-Megaline/blob/main/Picture.jpg" alt="Collage de gráficos">
 
 _Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P4.html)_
 
